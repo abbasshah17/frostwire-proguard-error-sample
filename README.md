@@ -1,0 +1,1 @@
+# frostwire-proguard-error-sample
